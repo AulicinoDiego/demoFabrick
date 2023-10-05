@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"it.example.demoFabrick.aspect","c":"TransactionsAspect","l":"logAndSaveTransactions(ProceedingJoinPoint)","url":"logAndSaveTransactions(org.aspectj.lang.ProceedingJoinPoint)"},{"p":"it.example.demoFabrick.aspect","c":"TransactionsAspect","l":"TransactionsAspect()","url":"%3Cinit%3E()"}]
